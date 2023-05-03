@@ -32,4 +32,3 @@ def pascal(pascal_list, n):
 
 start_list = [1]
 print(pascal(start_list, 3))
-print(list(range(1)))
